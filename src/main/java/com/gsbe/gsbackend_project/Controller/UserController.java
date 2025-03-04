@@ -1,4 +1,4 @@
-package com.gsbe.gsbackend_project.Controller;
+package com.gsbe.gsbackend_project.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
